@@ -1,0 +1,6 @@
+{
+  "hostname":"zero",
+  "cpuinfo":"first",
+  "memoryinfo":"second",
+  "diskinfo":"third"
+}
